@@ -16,8 +16,8 @@ A simple To-Do List web application to help you stay organized and manage your t
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot (102)](https://github.com/Khaire7031/To-Do-List/assets/121940469/6affdbe7-6f0b-4408-bab0-0e19e73be89d)
+
 
 ## Getting Started
 
