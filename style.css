@@ -43,6 +43,8 @@
 
 input{
     flex: 1;
+    font-size: 20px;
+    font-weight: 600;
     border: none;
     outline: none;
     background: transparent;
@@ -114,3 +116,10 @@ ul li span:hover{
 }
 
 
+
+.contact{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: space-around;
+}
