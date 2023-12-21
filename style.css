@@ -115,11 +115,3 @@ ul li span:hover{
     background: #edeef0;
 }
 
-
-
-.contact{
-    display: flex;
-    gap: 50px;
-    align-items: center;
-    justify-content: space-around;
-}
