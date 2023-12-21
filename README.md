@@ -16,7 +16,7 @@ A simple To-Do List web application to help you stay organized and manage your t
 
 ## Site is live 
 
-https://khaire7031.github.io/To-Do-List/
+http://tinyurl.com/388rjkh7
 
 ## Screenshots
 
